@@ -18,7 +18,7 @@ body {
     font-size: 13px;
     width: 100%;
     overflow-x: hidden;
-    background-color: #eeedee;
+    background-color: white;
     text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ body {
 .header-top {
     color: #00234b;
     font-weight: 600;
-    background-color: #eeedee;
+    background-color: white;
 }
 
 .header-top {
@@ -59,7 +59,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 0px 50px;
-    background-color: #eeedee;
+    background-color: white;
 }
 
 .group-item {
@@ -169,7 +169,7 @@ li {
 
 /* Form Register */
 .register {
-    background-color: #f0f9fc;
+    background-color: white;
     color: #0052b2;
     padding: 40px 65px;
 }
@@ -693,7 +693,7 @@ li {
 }
 
 .popular {
-    background-color: #eeedee;
+    background-color: white;
     padding-top: 10rem;
     padding-bottom: 10rem;
 }
